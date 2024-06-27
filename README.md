@@ -1,1 +1,1 @@
-WEBSITE: https://kanishkagoud.github.io/AmazonClone/
+WEBSITE:  https://kanishkagoud.github.io/AmazonClone/
